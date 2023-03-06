@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fx5DbWtB14NHwmsshT7I1fVMjNscNlA59eNNAPkwczpbv7Ww28tPQ/6uXB1HXsJBGGCT20YXoxLdEODnwsbTmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arapt\\Desktop\\programming\\misc\\dpmxtract\\GenericAnimalClass\\GenericAnimalClass\\GenericAnimalClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
